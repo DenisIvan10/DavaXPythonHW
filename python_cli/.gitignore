@@ -1,0 +1,32 @@
+# Python bytecode și cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Loguri
+*.log
+
+# Baze de date
+*.db
+
+# Mediu virtual
+venv/
+vnv/
+
+# Config local și fișiere temporare
+.env
+*.env
+*.swp
+*.bak
+*.tmp
+
+# IDE-uri
+.vscode/
+.idea/
+
+# Test & cache
+.pytest_cache/
+
+# Fișiere de configurare și output
+monitoring.json
